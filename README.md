@@ -31,6 +31,7 @@ This full stack ReactJS wellness app uses Redux for state management, Sequelize/
 
 ## User Actions
 Initial landing page (user login)
+![image](https://user-images.githubusercontent.com/13988358/74600735-72ad8d80-504a-11ea-97f3-5f1f06fcbe4f.png)
 
 Create a new account
 
