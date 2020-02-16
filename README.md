@@ -31,32 +31,32 @@ This full stack ReactJS wellness app uses Redux for state management, Sequelize/
 
 ## User Actions
 
-### Log in
+#### Log in
 
 ![image](https://user-images.githubusercontent.com/13988358/74600735-72ad8d80-504a-11ea-97f3-5f1f06fcbe4f.png)
 
 
-### Sign up
+#### Sign up
 
 ![image](https://user-images.githubusercontent.com/13988358/74600764-d33cca80-504a-11ea-9cd4-d11d6ab20bc1.png)
 
 
-### View posts by category or type
+#### View posts by category or type
 
 ![image](https://user-images.githubusercontent.com/13988358/74600982-a0480600-504d-11ea-9192-84a6764e266c.png)
 
 
-### Post a wellness question or comment
+#### Post a wellness question or comment
 
 ![image](https://user-images.githubusercontent.com/13988358/74601023-0765ba80-504e-11ea-81fc-0d1f5c8396b0.png)
 
 
-### Respond to a post or add a comment
+#### Respond to a post or add a comment
 
 ![image](https://user-images.githubusercontent.com/13988358/74601057-5ca1cc00-504e-11ea-8fd3-c7f7bea62599.png)
 
 
-### View your account with post and comment totals
+#### View your account with post and comment totals
 
 ![image](https://user-images.githubusercontent.com/13988358/74601073-983c9600-504e-11ea-8b1f-c206e1eed54d.png)
 
