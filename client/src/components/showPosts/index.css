@@ -1,0 +1,162 @@
+#postContainer {  
+    margin-left: 0px;    
+}
+#myTable {
+    margin-right: 50px;
+}
+#pageContainer {
+    width: 78%;
+}
+.userName {
+    font-family: "Segoe UI";
+    color:#0e464c;
+    font-size: 10pt;
+    font-weight: bold;
+}
+p {
+    font-size: 13px;
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+.btn-primary {
+    font-family: "Segoe UI";
+    font-size: 10pt;
+    color:white!important;
+    background-color: #0e464c;
+    border: none;
+    font-weight: 500;
+    text-decoration: none; 
+    letter-spacing: 2px;
+}
+#myPosts {
+    padding-top: 50px;    
+    width: 100%;
+    padding-bottom: 70px;
+}
+#subject {
+    font-weight: 500;
+    font-size: larger;
+    font-size: 20px;
+}
+#title {    
+    margin-top: 10px;
+}
+.userName {
+    width: fit-content;
+}
+.commentBox {
+    margin-bottom: 20px;
+    padding: 13px;
+}
+#noPosts {
+    margin-top: 25px;
+    font-size: 2em;
+}
+#post {
+    font-family: "Segoe UI";
+    font-size: 12pt;
+    color: white;
+    background-color: #599c2b;
+    border-color: #599c2b;  
+    margin: 10px auto;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+#post:hover {
+    background-color: #12a463;
+    border-color: #12a463;
+}
+.button {
+    color: white ;
+    font-size: 10pt;
+    background-color: #0e464c;
+    margin-bottom: 1px;
+}
+@media only screen and (max-device-width: 700px) {
+    #myPosts {
+        padding: 0%;
+        margin-left: 130px;
+        padding-bottom: 20%;
+        margin-top: 5%;
+    }
+}
+#post {
+    margin-left: 50%;
+    margin-top: 3%;
+    width: 25%;
+}
+#userName {
+    color: gray;    
+    font-size: 1.3em;
+}
+#userInitial {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: rgba(173, 171, 171,0.8);
+    font-size: 2em;
+    color: lightgray;
+    text-align: center;
+    line-height: 40px;   
+}
+.userNameCol {
+    padding: 0px 10px;
+}
+.commentDate {
+    font-size: 0.75em;
+}
+.date {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(97, 94, 94);
+}
+#chevron {
+    color: rgb(97, 94, 94);
+    margin-left: 5px;
+    padding-top: 10px;
+    font-size: 2em;
+    cursor: pointer;
+}
+#typeAndCategory {
+    padding: 0px;
+}
+.typeIcon {
+    margin-right: 10px;
+}
+#userImage {
+    color: gray;
+    margin-right: 5px;
+    font-size: 2em;
+}
+.like {
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.unlike {
+    margin-right: 5px;
+    cursor: pointer;
+    background-color: #0e464c !important;
+    outline: none !important;
+    outline-offset: none !important;
+    box-shadow: none !important;
+}
+
+.unlike:active {
+    outline: none !important;
+    outline-offset: none !important;
+}
+
+#numComments, #numLikes {
+    margin-right: 3px;
+    color: gray;
+}
+.deleteBtn {
+    background-color: gray;
+}
+#noPosts {
+    color: rgb(100, 95, 95);
+    padding-bottom: 80%;
+    margin-right: 60%;
+    font-size: 17pt;
+}

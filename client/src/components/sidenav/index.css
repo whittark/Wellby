@@ -1,0 +1,101 @@
+#sidenavContainer {
+    background-color: rgba(158,158,158,0.2);    
+    padding-top: 25px;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-bottom: 5px;
+    width: max-content;
+    min-width: 11%;
+    position: absolute;
+    left: 0;
+    height: 100%;
+    border-top-right-radius: 7px;
+}
+label {
+    font-size: 12px;
+    color: #0e464c;
+}
+#filterHead {
+    font-family: 'Roboto';
+    font-size: 11px;
+    color: #0e464c;
+    background-color: #80b7b7;
+    font-weight: 700;
+    border-color: #80b7b7;
+    padding: 10px;
+    text-transform: uppercase;
+}
+#filterBody {
+    background-color: #c3e1e1;
+    padding-right: 35px;
+}
+#filterHeader {
+    font-size: 15px;
+    color: #0e464c;
+    font-variant: small-caps;
+}
+@media only screen and (max-width: 700px) {
+    #filter {
+        width: min-content;
+        height: 100%;
+    }
+    #sidenavContainer {
+        padding-left: 15px;
+        padding-right: 15px;        
+    }
+}
+#goodEats {
+    color: #0e464c;
+    width: 19px;
+    padding-right: 5px;
+}
+#sleep {
+    color: #0e464c;
+    width: 19px;
+    padding-right: 5px;
+}
+#exercise {
+    color: #0e464c;
+    width: 19px;
+    padding-right: 5px;
+}
+#veggie {
+   color: #0e464c;
+   width: 19px;
+   padding-right: 5px;
+}
+#allergies {
+   color: #0e464c;
+   width: 19px;
+   padding-right: 5px;
+}
+#relaxation {
+   color: #0e464c;
+   width: 19px;
+   padding-right: 5px;
+}
+#seasonal {
+   color: #0e464c;
+   width: 19px;
+   padding-right: 5px;
+}
+#events {
+   color: #0e464c;
+   width: 19px;
+   padding-right: 5px; 
+}
+#other {
+   color: #0e464c;
+   width: 19px;
+   padding-right: 5px;
+}
+#question {
+   color: #0e464c;
+   width: 19px;
+   padding-right: 5px;
+}
+#announcement {
+   color: #0e464c;
+   width: 19px;
+   padding-right: 5px;
+}
