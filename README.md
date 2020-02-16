@@ -18,7 +18,6 @@ This full stack ReactJS wellness app uses Redux for state management, Sequelize/
 - Multer for back end photo upload parsing
 
 ## Key Features
-
 * Clean, ES6 JavaScript code
 * Express and express.Router() to handle server routes
 * ReactJS UI 
@@ -31,6 +30,7 @@ This full stack ReactJS wellness app uses Redux for state management, Sequelize/
 
 
 ## User Actions
+Initial landing page (user login)
 
 Create a new account
 
